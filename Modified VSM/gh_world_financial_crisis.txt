@@ -1,0 +1,434 @@
+1 Introduction
+What started as a financial crisis in July 2007 in the U.S.
+degenerated into a full blown global economic crisis in
+subsequent months. A financial crisis, also known as a credit
+crunch, occurs when there is an uncontrollable reduction in
+money supply and wealth with people losing confidence
+and refusing to honour their debt obligations. This creates
+disincentives for further credit creation, and incites lenders
+to recall existing loans. It was this phenomenon that was
+unleashed with loss of confidence by investors in the value
+of securitised mortgages including default on highly rated
+financial instruments in the United States and the first run
+on a U.K. bank in 150 years. Reverberations quickly spread
+beyond financial centres in the U.S. and the U.K. to other
+industrial countries in the world. What started in the U.S.
+as a mortgage crisis has degenerated into a global financial
+and economic crisis that compelled the United States Federal
+Reserve, Bank of England and the European Central Bank to
+inject unprecedented amounts of capital into the financial
+markets. The question that begs itself for an answer is why
+this crisis could occur in the 21st century?
+2 Nature of the Global Economy
+To fully appreciate the wider global implications of
+the crisis, and its impact on the economy of Ghana in
+particular, it is pertinent to outline the nature of the world
+economy, especially the increasing interdependence among
+countries on one hand, and the dependence of LDCs on
+the industrialised countries in North America and Europe
+as well as the emerging economies as major markets for
+their primary commodities and suppliers of their final and
+intermediate products. Referred to as Globalisation, this
+increasing interdependence is the process by which the
+people of the world are unified into a single society and
+function together as such, in a global village. This global
+village epithet connotes integration of world economic,
+technological, socio-cultural and political forces across
+countries, which are reflected in assimilation of national
+economies into the international economy through trade,
+foreign direct investment, capital flows, migration, and
+the spread of technology. As a global village, globalisation
+entails a huge variety of intertwined micro-processes that
+denationalise what had been constructed as national. For
+THE WORLD FINANCIAL CRISIS AND
+ITS IMPLICATIONS FOR GHANA
+Dr. Fritz Augustine Gockel
+PARLIAMENTARY BRIEFING PAPER
+1
+example legal and regulatory policies in international finance,
+political subjectivities, urban spaces, temporal frames a
+variety of dynamics and domains have all converged across
+countries. Many production processes, ostensibly, taking
+place in the US have in actual fact been dismembered or
+have been outsourced to firms across countries including
+Ghana where pay checks or parking tickets to people in
+the US are issued. The more active a country is in the global
+village, the more severe is the effect of the crisis on that
+country. As we see later, although Ghana is undoubtedly
+part of the global village, its weak interdependency links
+have so far shielded it from the frontline effects of the
+crisis. To appreciate the full implications of the crisis for
+a developing country such as Ghana, it is important to
+understand the “true” causes of the current global financial
+and economic crisis so as to be able to fashion workable
+solutions to addressing the probable impacts of the crisis
+on the economy.
+3 Origins of the Crisis
+The origins of the crisis lie in complex interaction of a
+number of forces scattered across policy setting and
+mistakes, market failure and regulatory failure in the
+developed market economies.
+3.1 Policy Setting and Mistakes
+In the case of policy setting and mistakes, the five years
+leading up to the first visible signs of the crisis in July 2007
+were characterised by low real short term policy interest rates
+following successful reduction in inflation and “disinflation
+scares” in the US and EU. Both short and long term interest
+rates virtually converged and market participants were able
+to use both long term and short term credit interchangeably
+without regard to when repayment was due. The market
+became careless as several participants tended to use short
+term instruments for long term purposes in the misguided
+belief that the short term rates were going to be prolonged.
+Furthermore, as the system was awash with all types of
+credits, and even households that were previously not
+creditworthy by acceptable standards (sub-prime borrowers)
+were now given the opportunity to borrow heavily. At the
+same time, global financial savings exceeded perceived
+investment opportunities, which helped to depress longterm rates across the world. Global conditions remained
+accommodating even when short term rates were increased,
+thus still keeping real and nominal rates generally low.
+Developing economies were able to build up larger reserves
+to reduce external vulnerability and maintain stable value
+of their currencies against the dollar. Indeed, Ghana was
+also able to improve its gross international reserves with
+massive foreign inflows and nominal appreciation of the
+cedi between 2003 and 2006 paving the ground for the
+redenomination which envisaged a one-to-one parity with
+the US dollar on a sustained basis. In June 2004 the US
+monetary authorities began to slowly increase its policy
+rates, which peaked at 5.25% in June 2006. Long term
+interest rates began to fall with bursting of the housing
+bubble and a wild gyration of commodity prices as money
+flowed out of assets like housing or stocks.
+3.2	 Market failure: Rapid financial innovation
+In the US rapid financial innovation and engineering were
+promoted, making risk easier to trade and distribute with
+securitisation (the process of aggregating similar financial
+instruments, such as loans or mortgages, into a security that
+can be sold or transferred or delivered to another party).
+Financial assets of all sorts from credit-card to companies’
+debt repayments were turned into securities and priced. As
+a result of heavy subprime borrowing, homeownership rate
+increased exacerbating house price increases and consumer
+spending. Indications are that between 1997 and 2006,
+home prices increased by about 124%. Unfortunately
+however, with increasing loan default, housing prices
+started falling with a domino effect, hence the crisis.
+3.3 Market failure: Poor Underwriting Standards
+The financial system was characterised by lowering
+of underwriting standards and proliferation of credit
+risk transfer instruments, which were driven in part by
+assumption of frictionless and uninterrupted liquidity.
+Credit rating agencies out-competed one another for
+market shares by issuing ratings that did not reflect the risk
+characteristics of the borrowers. Exploitative risk-shifting
+took place at every stage of the financial engineering
+process. Lenders collected upfront fees for originating and
+selling poorly underwritten, and sometimes fraudulently
+documented, loans and passed the risks along to investors
+without accepting responsibility for subsequent defaults.
+Consequently when the crisis was triggered by increasing
+interest rates, the subprime borrowers were first to declare
+their inability to honour their mortgage obligations.
+3.4 Market failure: Risk models’ failure
+There was widespread miscalculation by banks and investors
+of the level of risk inherent in making loans to subprime
+borrowers due to the fact that the lenders used statistical
+models that were not able to differentiate different risks,
+especially the risk profile of subprime mortgages. Not
+surprisingly, bad risks were given triple A ratings while in
+actual fact they should not have been entertained at all.
+When house prices began to decline between 2006 and
+2007, mortgage delinquencies soared, and securities
+backed with subprime mortgages, widely held by financial
+firms, lost most of their value. These massive losses have
+considerably impacted the balance sheets of banks across
+the globe, leaving them with very little capital to continue
+operations.
+3.5 Regulatory failure
+Regulatory failure was manifested in too much faith in the
+discipline of the market with high tolerance of weakening
+underwriting standards. Mortgage lending standards by
+financial institutions became lax, especially as each link
+in the mortgage chain collected profits while believing it
+was passing on risk. As each player made its money, the
+regulatory authorities pretended as if the market was
+allocating resources efficiently; credit rating agencies were
+themselves unregulated in the pursuit of competition. Not
+surprisingly, the policy makers and regulators were not able
+to quickly bring themselves to the realization that what
+they religiously believed in, the power of the invisible hand,
+was actually strangulating the global economy.
+2
+4 Policy Responses to the Crisis by the
+Industrialised Countries and G20
+Interventionists and Protectionists Policies: To manage the
+liquidity concerns and slowdown in the global economy in
+general and their respective economies in particular, the
+authorities in the US and many European governments
+have taken unprecedented steps of providing extensive
+liquidity, giving assurances to bank depositors and creditors
+that include blanket guarantees, structuring bail-out
+programs that include taking large ownership stakes in
+financial institutions, in addition to establishing programs
+for direct provision of credit to non-financial institutions.
+Some countries are in the proceeds of re-introducing capital
+controls as a policy of last resort in the event of extensive
+bank runs and capital outflows. Monetary policy is being
+redefined to move away from narrowly focusing on goods
+prices to taking into account asset price inflation, and
+prudential regulation that recognise systemic vulnerabilities.
+In the United States, bastion of capitalism, the Federal
+Reserve announced its readiness to pump an extra $1
+trillion into the financial system by purchasing Treasury
+bonds and mortgage securities to bolster the economy. The
+U.S monetary authorities (FED) have already reduced key
+policy interest rate nearly to zero, making the FED a buyer
+of long-term government bonds rather than the shortterm debt that it typically buys and sells to help control
+the money supply. Owing to the strong interventionist and
+protectionist policies being used to address the crisis, many
+analysts have declared capitalism and the mainstream policy
+views associated with the Washington Consensus, dead.
+Globally, Leaders of the Group of Twenty (G20) affirmed
+at their London Summit April 2009 that the only sure
+foundation for sustainable globalisation and rising
+prosperity for all is an open world economy based on
+market principles; effective, prudential regulation, and
+strong global institutions.
+The G20 pledged to do whatever is necessary to restore
+confidence, growth, and jobs; repair the financial system
+with improved capital adequacy guides to restore lending;
+strengthen financial regulation to rebuild trust; fund and
+reform international financial institutions to overcome this
+crisis and prevent future ones; promote global trade and
+investment and reject protectionism to underpin prosperity;
+and build an inclusive, green, and sustainable recovery. For
+the developing countries such as Ghana, the G20 agreed
+to triple International Monetary Fund (IMF) resources to
+$750 billion; support a new Special Drawing Rights (SDR)
+allocation of $250 billion; support at least $100 billion of
+additional lending by the Multilateral Development Banks
+(MDBs); ensure $250 billion of support for trade finance;
+and to use the additional resources from agreed IMF gold
+sales for concessional finance for the poorest countries. All
+of this together will constitute an additional $1.1 trillion
+programme of support to restore credit, growth and jobs in
+the world economy. Since the financial system precipitated
+the global crisis, emphasis was placed on its restructuring.
+Accordingly, the G20 resolved to establish a new Financial
+Stability Board (FSB) with a strengthened mandate, as a
+successor to the Financial Stability Forum (FSF), including
+all G20 countries, FSF members, Spain, and the European
+Commission. The FSB would collaborate with the IMF to
+provide early warning of macroeconomic and financial risks
+and the actions needed to address them.
+Countries are also to reshape their regulatory systems so
+that the authorities are able to identify and take account
+of macro-prudential risks. Similarly, measures are to be
+taken to extend regulation and oversight to all systemically
+important financial institutions, instruments and markets
+including, for the first time, systemically important hedge
+funds. Other major recommendations are to:endorse and
+implement the FSF’s tough new principles on pay and
+compensation and to support sustainable compensation
+schemes and the corporate social responsibility of all
+firms;take action, once recovery is assured, to improve the
+quality, quantity, and international consistency of capital
+in the banking system. In future, regulation must prevent
+excessive leverage and require buffers of resources to be
+built up in good times; take action against non-cooperative
+jurisdictions, including tax havens.
+We stand ready to deploy sanctions to protect our public
+finances and financial systems. The era of banking secrecy
+is over. We note that the Organisation of Economic Cooperation and Development (OECD) has recently published
+a list of countries assessed by the Global Forum against the
+international standard for exchange of tax information;
+call on the accounting standard setters to work urgently
+with supervisors and regulators to improve standards on
+valuation and provisioning and achieve a single set of highquality global accounting standards; extend regulatory
+oversight and registration to Credit Rating Agencies to
+ensure they meet the international code of good practice,
+particularly to prevent unacceptable conflicts of interest.
+5 Implications of Global Crisis for Ghana
+So far, the turbulence has been an industrial country
+phenomenon; LDCs have not been at the centre, at least for
+now. The impact on LDCs such as Ghana would be through
+lower global growth with domino effect on developing
+countries’ economic performance (real GDP growth),
+declining external demand for Ghana’ exports, falling
+commodity prices, drop in remittances and higher-priced
+financial flows from the international capital markets.
+5.1 Implications For Real GDP Growth
+Although the global economy and the industrialised
+economies have been experiencing GDP growth rates with
+increasing unemployment, performance of the economy
+of Ghana is still robust, and the growth trajectory that
+emerged some five or so years ago still continues. For 2007
+and 2008, real GDP growth rates were estimated at 6.3%
+and 6.2%. For 2006, the growth rate was 6.2%. Hence,
+Ghana’s economic growth appears not to be impacted
+adversely by the crisis to the point of derailing the growth
+trajectory, so far.
+5.2 Commodity Prices and Export Performance
+The prices of Ghana’s major exports are still holding out in
+the face of weakening global economic growth and falling
+prices in manufactured products. Total export earnings
+for 2008 were estimated at US$5,275.33 million, up by
+26.4% from the 2007 level. Cocoa exports rose from
+US$975.7 million in 2007 to US$1,239.65 million in 2008,
+which is some 67% increase. This was mainly on account
+3
+of increases in both volumes exported and realised export
+prices. For gold, export earnings increased by 29.6% from
+US$1,733.78 million in 2007 to US$2,246.25 million
+in 2008. The growth in value was due to the combined
+effects of price and volume as average realised prices
+went up by 25.8% and the volume of exports increased
+by 4.06%. The value of exports of timber products also
+improved considerably to about US$309.0 million, from
+the US$249.0 million recorded in 2007. While average
+prices increased by 17.64% to US$554.09 million per
+cubic metre, the volume went up to 557,663 cubic metres,
+which is an increase of 5.5%. These good performances of
+export earnings suggest a lagged effect of the global crisis
+on Ghana’s exports or that the market is taking a flight into
+commodities. Whichever of these options holds, Ghana
+must start looking inwards to “domesticate” cocoa and
+gold as linkages to the industrial sector
+5.3 Exposure of Financial Sector and Implications for
+Ghana Stock Exchange
+Fortunately for Ghana, its financial exposure to the global
+economy is limited. On the part of the private sector,
+especially the banking system, the possible direct links to
+the global financial crisis by Ghanaian banks continue to be
+exposure to counterparties in the form of correspondent
+balances and placements with overseas banks. Deposit
+Money Banks (DMBs) correspondent balances at the end
+of December 2008 were 55.46% of networth of banks,
+which exceeds the 48.12% in 2007. These exposures are
+within the internationally acceptable prudential limits. As
+regards the Ghana Stock exchange, the crisis can only also
+adversely affect it when foreign investors decide to liquidate
+their shares. However, this appears not to be the case yet as
+the Ghana Stock Exchange (GSE) has continued to perform
+creditably. Indeed, the Bank of Ghana and GSE regulatory
+framework is strong enough to pre-empt unprecedented
+attacks on the GSE to disrupt it.
+5.4 Effects on Remittances
+As massive job cuts occur in the industrialised countries,
+Ghana will not remain unaffected by declining remittances.
+Remittances flows to Ghana have been increasing over the
+years, from US$0.717billion in 2001 to US $1.83 billion
+in 2007 and US$8.7 billion in 2008. The significance
+of remittances in Ghana’s macro-economy and microeconomy cannot be overemphasised. Remittances are used
+to shore up external reserves and manage exchange rate
+stability. They are also micro aids to dependants, whose
+poverty profiles would have been worse without them.
+NGOs and charities, which are beneficiaries of remittances
+have already scaled down their activities and shed labour.
+Many of the real estate and constructional activities taking
+place are from remittances. Consequently, any significant
+reductions in remittances will have adverse effects at both
+the macro and micro levels of the economy.
+5.5	 Lower Budgetary Support through Official
+	 Development Assistance
+Official Development Assistance to Ghana is a critical source
+of closing Ghana’s resource gap. Within the Multi-Donor
+Budgetary Support (MDBS) framework, the development
+partners provide about 20% of Ghana’s annual budget.
+Indeed, virtually all major capital/development projects in
+Ghana are undertaken with donor assistance. Any reduction
+in donor inflows would therefore adversely affect Ghana’s
+development agenda. It is therefore heart-warming to note
+that the G20 has pledged some US$1.1 trillion for the IMF
+to be used in financing low income countries faced with
+the adverse effects of the crisis. However, it has yet to be
+seen if this money is actually going to be disbursed; this is
+the critical challenge for Ghana and other such developing
+countries.
+5.6 Implications for Ghana’s Chances to Borrow from
+the International Capital Market
+In 2007, Ghana issued sovereign bonds to raise
+US$750million dollars from the international capital
+market. This facilitated closing of the financing 2008
+fiscal gap. With the global crisis, access to international
+financing of fiscal gap has become extremely difficult and
+on unaffordable terms. Government’s attempt to raise
+US$300 million loan from the international capital market
+to cover debt absorbed from the 70% stake in Ghana
+Telecom sale to Vodafone for $900 million was aborted
+because of stringent market conditions including some
+27% cost of credit. Clearly, the resort to the international
+capital market to finance fiscal deficits is no longer a viable
+option under the prevailing global crisis condition.
+6 Ghana: What To Do and Not To Do
+Ghana has been able to weather the storm so far because
+of the limited integration of the economy in the world
+market. This cannot continue especially as government’s
+development agenda envisages export-led growth
+strategies, which necessarily calls for macroeconomic
+stability.
+Government would have to get more serious with
+macroeconomic management if investors, both foreign
+and local, are to be attracted into the country. Risk adverse
+investors will increasingly discriminate against weak policies.
+Macroeconomic stability for growth entails judicious fiscal
+management. The fiscal slippage of 15% of GDP in 2008
+was what engendered the acceleration of inflation and
+exchange rate instability, which are both bad for investor
+confidence. Monetary policy should be disinflationary and
+should not accommodate expansionary fiscal excesses.
+Government should develop plans for adjustment to
+potential shortfalls in external financing, especially by
+exacting value for money on the expenditure side, and
+curtailing revenue leakages through administrative
+efficiency. If Ghana must go to the IMF/World Bank, it must
+be prepared with well-thought out programs underpinned
+by strong economic arguments, just as the East-Asian tigers
+did in their negotiation strategies.
+The use of cheap money policy is not a viable option for
+now. The industrialised countries are fighting consumption
+deficiency while in Ghana the problem is low savings
+with investment deficiency. The securitisation problem
+that precipitated the crisis is not part of Ghana’s financial
+superstructure. Financial stimulus or fiscal stimulus that
+instigates further consumption is not desirable and would
+rather send wrong signals to investors.
+The regulatory authorities should learn from the policy
+mistakes of the industrialised world; the market with
+invisible hand will always work but may do so at times
+4
+by strangulation. Consequently, the regulatory and legal
+environment must be strengthened to ensure that market
+failures are promptly dealt with.
+Bank of Ghana should enhance the capacity of the deposit
+money banks to develop financial products that would
+enhance intermediation of remittances and other inflows.
+Furthermore, the regulatory authorities and policy makers
+must, expeditiously, work on the removal of costs of doing
+business to the private sector to enhance private sector
+competitiveness.
+Contacts
+Friedrich-Ebert-Stiftung
+P. O. Box KA 9722
+Accra.
+Tel: 021 772471,
+ 761535,
+ 772687
+Fax: 021 772990
+E-mail office@fesghana.org
+Web: http://fesghana.org
+ISBN: 9988-572-43-3
+About The Author
+Dr. Fritz Augustine Gockel
+Economist and Senior Lecturer,
+Department of Economics,
+University of Ghana, Legon.
+E-mail: fagocl2@yahoo.com
+Disclaimer
+The views expressed in this publication are not
+necessarily those of the Friedrich-Ebert-Stiftung
+or of the organisation for which the author
+works.
+5

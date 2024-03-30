@@ -1,0 +1,124 @@
+
+Main menu
+
+WikipediaThe Free Encyclopedia
+Search
+Create account
+Log in
+
+Personal tools
+
+Toggle the table of contents
+Human chimera
+
+Article
+Talk
+Read
+Edit
+View history
+
+Tools
+From Wikipedia, the free encyclopedia
+A human chimera is a human with a subset of cells with a distinct genotype than other cells, that is, having genetic chimerism. In contrast, an individual where each cell contains genetic material from a human and an animal is called a human–animal hybrid.[1]
+
+Mechanisms
+Further information: Chimera (genetics)
+A major mechanisms of human chimerism is mosaicism, wherein there is a mutation of the genetic material in a cell, giving rise to a subset of cells that are different from the rest. Another mechanism is the fusion of more than one fertilized zygote in the early stages of prenatal development.
+
+In artificial chimerism, an individual has one cell lineage that was inherited genetically at the time of the formation of the human embryo and the other that was introduced through a procedure, including organ transplantation or blood transfusion.[2] Specific types of transplants that could induce this condition include bone marrow transplants and organ transplants, as the recipient's body essentially works to permanently incorporate the new blood stem cells into it.
+
+Examples
+Natural chimerism
+Natural chimerism has been documented in humans in several instances.
+
+The Dutch sprinter Foekje Dillema was expelled from the 1950 national team after she refused a mandatory sex test in July 1950; later investigations revealed a Y-chromosome in her body cells, and the analysis showed that she was probably a 46,XX/46,XY mosaic female.[3]
+In 1953, a human chimera was reported in the British Medical Journal. A woman was found to have blood containing two different blood types. Apparently this resulted from her twin brother's cells living in her body.[4] A 1996 study found that such blood group chimerism is not rare.[5]
+In 2002, Lydia Fairchild was denied public assistance in Washington state when DNA evidence appeared to show that she was not the mother of her children. A lawyer for the prosecution heard of a human chimera in New England, Karen Keegan, and suggested the possibility to the defense, who were able to show that Fairchild, too, was a chimera with two sets of DNA, and that one of those sets could have been the mother of the children.[6]
+In 2002, an article in the New England Journal of Medicine described a woman in whom tetragametic chimerism was unexpectedly identified after she underwent preparations for kidney transplant. Those preparations for the transplant required the patient and her immediate family to undergo histocompatibility testing, the result of which had suggested that she was not the biological mother of two of her three children.[7]
+In 2009, singer Taylor Muhl discovered that what was always thought to be a large birthmark on her torso was actually caused by chimerism.
+Non-intentional chimerism related to treatments
+Several cases of unusual chimera phenomena have been reported in bone marrow recipients.
+In 2019, the blood and seminal fluid of a man in Reno, Nevada (who had undergone a vasectomy), exhibited only the genetic content of his bone marrow donor. Swabs from his lips, cheek and tongue showed mixed DNA content.[8]
+The DNA content of semen from an assault case in 2004 matched that of a man who had been in prison at the time of the assault, but who had been a bone marrow donor for his brother, who was later determined to have committed the crime.[8][9][10]
+In 2008, a man was killed in a traffic accident that occurred in Seoul, South Korea. In order to identify him, his DNA was analyzed. Results revealed that the DNA of his blood, along with some of his organs, appeared to show that he was female. It was later determined that he had received a bone marrow transplant from his daughter.[8]
+Another instance of treatment-related human chimerism was published in 1998, where a male human had some partially developed female organs due to chimerism. He had been conceived by in-vitro fertilization.[11]
+Human-animal chimeras
+Further information: Xenotransplantation
+For hybrids, see Human–animal hybrid.
+Human-animal chimeras include humans having undergone non-human to human xenotransplantation, which is the transplantation of living cells, tissues or organs from one species to another.[12][13]
+
+Patient derived xenografts are created by xenotransplantation of human tumor cells into immunocompromised mice, and is a research technique frequently used in pre-clinical oncology research.[14]
+
+The first stable human-animal chimeras to actually exist were first created by Shanghai Second Medical University scientists in 2003, the result of having fused human cells with rabbit eggs.[13]
+In 2017, a human-pig chimera was reported to have been created; the chimera was also reported to have 0.001% human cells, with the balance being pig.[15][16][17] The embryo consisted mostly pig cells and some human cells. Scientists stated that they hope to use this technology to address the shortage of donor organs.[18][19]
+In 2021, a human-monkey chimera was created as a joint project between the Salk Institute in the US and Kunming University in China and published in the journal Cell.[20] This involved injecting human stem cells into monkey embryos. The embryos were only allowed to grow for a few days, but the study demonstrated that some of these embryos still had human stem cells surviving at the end of the experiments. Because humans are more closely related to monkeys than other animals, it means there is more chance of the chimeric embryos surviving for longer periods so that organs can develop. The project has opened up possibilities into organ transplantation as well as ethical concerns particularly concerning human brain development in primates.[21]
+Chimera identification
+Non-artificial chimerism is so rare that there have only been 100 confirmed cases in humans.[citation needed] However, this may be due to the fact that humans might not be aware that they have this condition to begin with. There are usually no signs or symptoms for chimerism other than a few physical symptoms such as hyper-pigmentation, hypo-pigmentation, or heterochromia iridum (possessing two different colored eyes). However, these signs do not necessarily mean an individual is a chimera and should only be seen as possible symptoms. Again, forensic investigation or curiosity over a failed maternity/paternity DNA test usually leads to the accidental discovery of this condition. By simply undergoing a DNA test, which usually consists of either a swift cheek swab or a blood test, the discovery of the once unknown second genome is made, therefore identifying that individual as a chimera.[22]
+
+Chimerism and intersex
+The concept of a "human hermaphrodite" resulting from chimerism is largely a misconception. Most intersex individuals are not chimeras,[23][24] and most human chimeras are not observed to have intersex traits.[24] Theoretically, if a gynandromorphic human chimera were to have fully functioning male and female gonad tissue, popular speculation suggests such an individual could self-fertilize; this hypothesis is backed by the fact that hermaphroditic animal species commonly reproduce in this way. However, no such case of functional self-fertilization has ever been documented in humans;[25] many biologists have concluded that this form of "true hermaphroditism" does not occur in mammals,[26][27][28][29][30] especially in humans.[31][32][33][34] While humans are known to have sex characteristics that diverge from "true male" or "true female," these individuals fall under the social umbrella of intersex conditions and traits, and typically consider the term "hermaphrodite" to be a slur when applied to them.[35][36][37]
+
+Legislation
+The Human Chimera Prohibition Act
+On 11 July 2005, a bill known as The Human Chimera Prohibition Act was introduced into the United States Congress by Senator Samuel Brownback; however, it died in Congress sometime in the next year. The bill was introduced based on findings that science has progressed to the point where human and nonhuman species can be merged to create new forms of life. Because of this, ethical issues may arise as the line blurs between humans and other animals, and according to the bill with this blurring of lines comes a show of disrespect for human dignity. The final claim brought up in The Human Chimera Prohibition Act was that there is an increasing amount of zoonotic diseases. With that being said, the creation of human-animal chimeras can allow these diseases to reach humans.[38]
+
+On 22 August 2016, another bill, The Human-Animal Chimera Prohibition Act of 2016, was introduced to the United States House of Representatives by Christopher H. Smith. It identifies a chimera as:
+
+a human embryo into which a nonhuman cell or cells (or the component parts thereof) have been introduced to render the embryo's membership in the species Homo sapiens uncertain;
+a chimera human/animal embryo produced by fertilizing a human egg with nonhuman sperm;
+a chimera human/animal embryo produced by fertilizing a nonhuman egg with human sperm;
+an embryo produced by introducing a nonhuman nucleus into a human egg;
+an embryo produced by introducing a human nucleus into a nonhuman egg;
+an embryo containing at least haploid sets of chromosomes from both a human and a nonhuman life form;
+a nonhuman life form engineered such that human gametes develop within the body of a nonhuman life form; or
+a nonhuman life form engineered such that it contains a human brain or a brain derived wholly or predominantly from human neural tissues.
+The bill prohibits the attempts to create a human-animal chimera, the transfer or attempt to transfer a human embryo into a nonhuman womb, the transfer or attempt to transfer a nonhuman embryo into a human womb, and the transport or receive of any purpose of an animal chimera. Penalties for violations of this bill include fines and/or imprisonment of up to 10 years. The bill was referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations on October 11, 2016, but died there.[39]
+
+Patenting
+In the U.S., efforts into creating a chimeric entity appeared to be legal when the topic first came up. Developmental biologist Stuart Newman, a professor at New York Medical College in Valhalla, N.Y., applied for a patent on a human-animal chimera in 1997 as a challenge to the U.S. Patent and Trademark Office and the U.S. Congress, motivated by his moral and scientific opposition to the notion that living things can be patented at all. Prior legal precedent had established that genetically engineered entities, in general, could be patented, even if they were based on beings occurring in nature.[40] After a seven-year process, Newman's patent finally received a flat rejection. The legal process had created a paper trail of arguments, giving Newman what he claimed was a victory. The Washington Post ran an article on the controversy that stated that it had raised "profound questions about the differences-- and similarities-- between humans and other animals, and the limits of treating animals as property."[40]
+
+References
+ Sarah Taddeo, Jason S. Robert (2014-11-04). ""Hybrids and Chimeras: A Consultation on the Ethical and Social Implications of Creating Human/Animal Embryos in Research" (2007), by the HFEA". The Embryo Project at Arizona State University.
+ Rinkevich, B. (June 2001). "Human natural chimerism: an acquired character or a vestige of evolution?". Human Immunology. 62 (6): 651–657. doi:10.1016/s0198-8859(01)00249-x. ISSN 0198-8859. PMID 11390041.
+ Ballantyne, KN; Kayser, M; Grootegoed, JA (2011). "Sex and gender issues in competitive sports: investigation of a historical case leads to a new viewpoint". British Journal of Sports Medicine. 46 (8): 614–7. doi:10.1136/bjsm.2010.082552. PMC 3375582. PMID 21540190.
+ Bowley, C. C.; Ann M. Hutchison; Joan S. Thompson; Ruth Sanger (July 11, 1953). "A human blood-group chimera". British Medical Journal. 2 (4827): 81. doi:10.1136/bmj.2.4827.81. PMC 2028470. PMID 13051584.
+ Van Dijk, B. A.; Boomsma, D. I.; De Man, A. J. (1996). "Blood group chimerism in human multiple births is not rare". American Journal of Medical Genetics. 61 (3): 264–8. CiteSeerX 10.1.1.149.9001. doi:10.1002/(SICI)1096-8628(19960122)61:3<264::AID-AJMG11>3.0.CO;2-R. PMID 8741872. S2CID 9787758.
+ "She's Her Own Twin". ABC News. August 15, 2006. Archived from the original on October 28, 2013. Retrieved September 17, 2013.
+ Yu, Neng; Kruskall, Margot S.; Yunis, Juan J.; Knoll, Joan H.M.; Uhl, Lynne; Alosco, Sharon; Ohashi, Marina; Clavijo, Olga; Husain, Zaheed; Yunis, Emilio J.; Yunis, Jorge J. (2002-05-16). "Disputed Maternity Leading to Identification of Tetragametic Chimerism". New England Journal of Medicine. 346 (20): 1545–1552. doi:10.1056/NEJMoa013452. ISSN 0028-4793. PMID 12015394.
+ Murphy, Heather (2019-12-09). "Man who had transplant finds out months later his DNA has changed to that of donor 5,000 miles away". The Guardian. Retrieved December 12, 2019.
+ Murphy, Erin E. (2015-10-07). "DNA at the Fringes: Twins, Chimerism, and Synthetic DNA". The Daily Beast.
+ Schlueter, Roger (2018-02-01). "Bone marrow transplant could give you new DNA". Herald & Review. Retrieved 2020-02-08.
+ Strain, Lisa; John C.S. Dean; Mark P. R. Hamilton; David T. Bonthron (1998). "A True Hermaphrodite Chimera Resulting from Embryo Amalgamation after in Vitro Fertilization". The New England Journal of Medicine. 338 (3): 166–169. doi:10.1056/NEJM199801153380305. PMID 9428825.
+ Xenotransplantation. Definition by the World Health Organization
+ Maryann, Mott (January 25, 2005). "Animal-Human Hybrids Spark Controversy". National Geographic News. Retrieved August 6, 2015.
+ Tentler, J. J.; Tan, A. C.; Weekes, C. D.; Jimeno, A; Leong, S; Pitts, T. M.; Arcaroli, J. J.; Messersmith, W. A.; Eckhardt, S. G. (2012). "Patient-derived tumour xenografts as models for oncology drug development". Nature Reviews. Clinical Oncology. 9 (6): 338–50. doi:10.1038/nrclinonc.2012.61. PMC 3928688. PMID 22508028.
+ Gallagher, James (2017-01-26). "Human-pig 'chimera embryos' detailed". BBC News. Retrieved 2017-06-03.
+ "Human-Pig Hybrid Created in the Lab—Here Are the Facts". 2017-01-26. Retrieved 2017-06-03.
+ "Scientists create human/pig hybrid". The Independent. January 26, 2017. Retrieved 2017-06-03.
+ "Human-Pig Hybrid Created in the Lab—Here Are the Facts". 2017-01-26. Retrieved 2017-01-27.
+ Wu, Jun; Platero-Luengo, Aida; Sakurai, Masahiro; Sugawara, Atsushi; Gil, Maria Antonia; Yamauchi, Takayoshi; Suzuki, Keiichiro; Bogliotti, Yanina Soledad; Cuello, Cristina; Valencia, Mariana Morales; Okumura, Daiji (2017-01-26). "Interspecies Chimerism with Mammalian Pluripotent Stem Cells". Cell. 168 (3): 473–486.e15. doi:10.1016/j.cell.2016.12.036. ISSN 0092-8674. PMC 5679265. PMID 28129541.
+ Tan, Tao; Wu, Jun; Si, Chenyang; Dai, Shaoxing; Zhang, Youyue; Sun, Nianqin; Zhang, E.; Shao, Honglian; Si, Wei; Yang, Pengpeng; Wang, Hong (2021-04-15). "Chimeric contribution of human extended pluripotent stem cells to monkey embryos ex vivo". Cell. 184 (8): 2020–2032.e14. doi:10.1016/j.cell.2021.03.020. ISSN 0092-8674. PMID 33861963. S2CID 233247345.
+ "Human–Monkey Hybrids: Have We Crossed a Boundary? | The American Spectator | USA News and Politics". The American Spectator | USA News and Politics. Retrieved 2021-06-26.
+ "National Society of Genetic Counselors : Blogs : Chimerism Explained: How One Person Can Unknowingly Have Two Sets of DNA". nsgc.org. Archived from the original on 2020-02-02. Retrieved 2020-03-15.
+ "Intersex Definitions". interACT: Advocates for Intersex Youth. Retrieved 2022-10-31.
+ "Intersex and the City: C is for Chimera". Intersex and the City. 2014-07-31. Retrieved 2022-10-31.
+ Bayraktar, Zeki (2018). "Potential autofertility in true hermaphrodites". The Journal of Maternal-Fetal & Neonatal Medicine. 31 (4): 542–547. doi:10.1080/14767058.2017.1291619. PMID 28282768. S2CID 22100505.
+ MD, Randolph M. Nesse; Williams, George C. (2012-02-08). Why We Get Sick: The New Science of Darwinian Medicine. Knopf Doubleday Publishing Group. p. 185. ISBN 978-0-307-81600-9. No species of mammal is hermaphroditic.
+ Smith, John Maynard (2012-12-06). Did Darwin Get It Right?: Essays on Games, Sex and Evolution. Springer Science & Business Media. p. 102. ISBN 978-1-4684-7862-4. Animals are less often hermaphrodites-no mammals or birds are so
+ Schärer, Lukas (2017). "The varied ways of being male and female". Molecular Reproduction and Development. 84 (2): 94–104. doi:10.1002/mrd.22775. ISSN 1098-2795. PMID 28032683. Of note, the otherwise well-studied insects, birds, and mammals are strikingly absent here—with not a single species among these groups showing hermaphroditism (for details on a supposedly hermaphroditic scale insect, however, see Gardner and Ross, 2011).
+ Maxwell, Kenneth E. (2013-11-11). The Sex Imperative: An Evolutionary Tale of Sexual Survival. Springer. p. 152. ISBN 978-1-4899-5988-1.
+ Gorshkov, Victor G. (2012-12-06). Physical and Biological Bases of Life Stability: Man, Biota, Environment. Springer Science & Business Media. ISBN 978-3-642-85001-1. No cases of hermaphroditism or parthenogenesis are found among birds and mammals.
+ Phelan, Jay (2009-03-02). What Is Life?: A Guide to Biology w/Prep-U. Macmillan. p. 243. ISBN 978-1-4292-8079-2.
+ Mills, Alex (2018-01-01). Biology of Sex. University of Toronto Press. p. 309. ISBN 978-1-4875-9337-7.
+ Turpin, Raymond; Lejeune, Jérôme (2013-10-22). Human Afflictions and Chromosomal Aberrations: International Series of Monographs in Pure and Applied Biology: Modern Trends in Physiological Sciences. Elsevier. p. 230. ISBN 978-1-4831-4668-3.
+ Dawson, Ernest Rumley (1917). The Causation of Sex in Man: A New Theory of Sex Based on Clinical Materials Together with Chapters on Forecasting Or Predicting the Sex of the Unborn Child and on the Determination Or Production of Either Sex at Will. H. K. Lewis & Co. Ltd. p. 154.
+ Knight, Kyle (2017-07-25). ""I Want to Be Like Nature Made Me": Medically Unnecessary Surgeries on Intersex Children in the US". Human Rights Watch.
+ Dreger, AD (1999). Intersex in the age of ethics. Internet Archive. Hagerstown, Md. : University Pub. Group. ISBN 978-1-55572-125-1.
+ "What is Intersex? Frequently Asked Questions". interACT: Advocates for Intersex Youth. Retrieved 2022-10-31.
+ Brownback, Samuel (2005-03-17). "S.659 – Human Chimera Prohibition Act of 2005 (Introduced in Senate - IS)". The Library of Congress THOMAS. Archived from the original on 2016-07-04. Retrieved 20 May 2015.
+ Smith, Christopher H. (2016-10-11). "Text - H.R.6131 - 114th Congress (2015-2016): Human-Animal Chimera Prohibition Act of 2016". congress.gov. Retrieved 2019-11-14.
+ Weiss, Rick (February 13, 2005). "U.S. Denies Patent for a Too-Human Hybrid". The Washington Post. Retrieved August 8, 2015.
+Categories: ReproductionIntersex and medicineGenetic anomaliesTwinChimerism
+This page was last edited on 14 September 2023, at 07:05 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaCode of ConductDevelopersStatisticsCookie statementMobile viewWikimedia FoundationPowered by MediaWiki
